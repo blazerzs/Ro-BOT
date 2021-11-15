@@ -9,4 +9,5 @@ Ro-Bot is a free multi-purpose Discord bot designed with Roblox integration in m
 
 ## License
 MIT
+
 **Free and open-source.**
