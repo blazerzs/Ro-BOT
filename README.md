@@ -1,5 +1,5 @@
 # Ro-BOT
-Ro-Bot is a free multi-purpose Discord bot designed with Roblox integration in mind.
+Ro-BOT is a free multi-purpose Discord bot designed with Roblox integration in mind.
 
 [![License](https://img.shields.io/github/license/blazerzs/Ro-BOT)](https://github.com/blazerzs/Ro-BOT/blob/main/LICENSE) ![Stars](https://img.shields.io/github/stars/blazerzs/Ro-BOT) ![Forks](https://img.shields.io/github/forks/blazerzs/Ro-BOT)
 
