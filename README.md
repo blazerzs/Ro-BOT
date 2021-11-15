@@ -8,6 +8,6 @@ Ro-BOT is a free multi-purpose Discord bot designed with Roblox integration in m
   > This bot is amazing, I couldn't have find a better bot. - Julian, Founder of Little Playful Daycare.
 
 ## License
-MIT
+[![License](https://img.shields.io/github/license/blazerzs/Ro-BOT)](https://github.com/blazerzs/Ro-BOT/blob/main/LICENSE)
 
 **Free and open-source.**
