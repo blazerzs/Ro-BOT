@@ -6,7 +6,6 @@ Ro-Bot is a free multi-purpose Discord bot designed with Roblox integration in m
 ## Satisified Customers
 - Little Playful Daycare
   > This bot is amazing, I couldn't have find a better bot. - Julian, Founder of Little Playful Daycare.
-  > THE BOT WAS SO EASY TO SET UP, ONE OF MY BEST FRIENDS SW_OCKS HELPED SET IT UP. I'M DEFINITELY SHARING THIS WITH MY FRIENDS. TYSM RO-BOT!! <3 - Kasey
 
 ## License
 MIT
